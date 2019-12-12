@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 27285
+Implementation-Vendor-Id: com.howtodoinjava
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://maven.apache.org/oauth2
+Created-By: Maven Integration for Eclipse
+

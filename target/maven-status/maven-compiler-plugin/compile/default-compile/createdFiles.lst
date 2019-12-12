@@ -1,0 +1,6 @@
+com\howtodoinjava\demo\SpringOauth2ResourceServerApplication.class
+com\howtodoinjava\demo\config\SecurityConfig.class
+com\howtodoinjava\demo\resource\UserProfile.class
+com\howtodoinjava\demo\config\OAuth2AuthorizationServer.class
+com\howtodoinjava\demo\config\OAuth2ResourceServer.class
+com\howtodoinjava\demo\resource\RestResource.class
